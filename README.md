@@ -1,1 +1,1 @@
-# Light-The-Stars
+Welcome to Light The Stars! Use your arrow keys to move the turtle around your screen so that it can light up the stars, but watch out there's a catch! You have to light up all the stars before the backround turns from red to black. Have fun and light your stars!⭐️ 
